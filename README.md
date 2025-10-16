@@ -42,3 +42,7 @@
 | 사용자 인증 | 게임 진행자는 인증번호를 통해 인증 |
 | 순위 조회 | 게임이 종료되면 자동으로 순위 출력 |
 | 실시간 채팅 | 채팅을 통해 메세지와 정답 입력 |
+
+# 프로젝트 코드
+### [프론트엔드](https://github.com/kangkyuchang/HangMan-Front-)
+### [백엔드](https://github.com/kangkyuchang/HangMan-BackEnd)
